@@ -1,6 +1,28 @@
 {
   "data": [
     {
+      "name": "奈菲影视(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.nfmovies.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "南瓜屋(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "http://www.nangua5.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "94神马(规则)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "type": "webPlug",
